@@ -1,5 +1,5 @@
 # flipkartbot
-A simple project that integrated Selenium and Scrapy frameworks
+A simple project that integrates Selenium and Scrapy frameworks
 
 This project is written in Python. 
 

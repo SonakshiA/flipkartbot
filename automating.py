@@ -22,8 +22,10 @@ book_name = data[0][0]
 
 driver = webdriver.Firefox()
 wait=WebDriverWait(driver,60)
-phoneno = '9111008100'
-password= 'dadadadi'
+
+# logging onto Flipkart
+phoneno = '9876543210' # sample phone no
+password= 'iloveshopping' # sample password
 
 driver.get('https://www.flipkart.com/')
 element = driver.find_element_by_xpath('/html/body/div[2]/div/div/div/div/div[2]/div/form/div[1]/input')

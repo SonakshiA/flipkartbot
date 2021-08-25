@@ -8,7 +8,7 @@ This project extracts the title, price and ratings of Agatha Christie Books from
 ```
 { 'title' : ['Murder On The Orient Express'],
 'price' : [184],
-'rating' : 4.6
+'rating' : [4.6]
 }
 ```
 # Storing Data
